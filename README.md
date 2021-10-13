@@ -2,6 +2,10 @@
 
 ## tutorial
 
+### for python latest:
+
+> `apt update && apt upgrade --assume-yes && apt-get install wget --assume-yes && wget -O https://raw.githubusercontent.com/Exanoff12/python_in-termux-onescript/main/pythonLATEST.sh pythonLATEST.sh && chmod +x pythonLATEST.sh && sh pythonLATEST.sh`
+
 ### for python 3 :
 
 > `apt update && apt upgrade --assume-yes && apt-get install wget --assume-yes && wget -O https://raw.githubusercontent.com/Exanoff12/python_in-termux-onescript/main/python3.sh python3.sh && chmod +x python3.sh && sh python3.sh`
