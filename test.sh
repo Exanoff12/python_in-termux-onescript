@@ -4,5 +4,6 @@ sudo apt-get install python$pyver --assume-yes
 mkdir python-termux
 ls
 echo python$pyver
+python --version
 echo "installation of python $pyver finished"
 echo "script by Exanoff12"
