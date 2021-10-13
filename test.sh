@@ -1,4 +1,4 @@
-pyver=2.7
+pyver=3.9
 sudo apt update
 sudo apt-get install python$pyver --assume-yes
 mkdir python-termux
