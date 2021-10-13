@@ -1,4 +1,4 @@
-apt-get install python3 --assume-yes
+apt-get install python2 --assume-yes
 termux-setup-storage
 cd storage
 cd shared
