@@ -1,4 +1,5 @@
 # install and use python in termux with a single line of code.
+## **DON'T USE (need to fix)**
 
 ## tutorial
 **_copy and paste the code to install. Warning!!!! you must have F-Droid version of termux in order to work_**
